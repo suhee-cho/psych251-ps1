@@ -1,5 +1,5 @@
 ---
-title: "Hello, CONFLICTS!!!!!"
+title: "Hello, conflicts"
 format: html
 ---
 ```{r}
