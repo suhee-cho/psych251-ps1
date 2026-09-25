@@ -8,3 +8,7 @@ Author: Suhee Cho.
 Date: 09/25/2026
 
 This github repository is used for PSYCH 251, homework 1.
+
+I collaborated with Brooke Sevchik. Here's the repo URL of her.
+
+https://github.com/B-Sevchik/psych251-ps1
