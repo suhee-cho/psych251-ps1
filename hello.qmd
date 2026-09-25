@@ -7,3 +7,10 @@ summary(cars)
 ```
 
 Here's another text line under the table.
+
+```{r}
+library(ggplot2)
+ggplot(data = mpg, mapping = aes(x = cty, y = hwy)) +
+  geom_point(aes(color = class), size = 3) +
+  geom_smooth(method = "lm", se = FALSE)
+```
