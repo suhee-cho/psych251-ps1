@@ -5,3 +5,5 @@ format: html
 ```{r}
 summary(cars)
 ```
+
+Here's another text line under the table.
